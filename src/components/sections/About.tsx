@@ -10,7 +10,7 @@ export default function About() {
   // Dynamic image switching based on tab
   const tabImages = {
     about: '/images/about.jpg',
-    certificates: '/images/about2.jpeg',
+    certificates: '/images/about2.jpg',
     education: '/images/about3.jpg',
   };
 

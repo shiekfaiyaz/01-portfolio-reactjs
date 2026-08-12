@@ -10,7 +10,7 @@ export const SKILLS_DATA: Skill[] = [
   // Design
   { id: '1', title: 'Figma', percentage: 90, image: '/images/figma.png', category: 'design' },
   { id: '2', title: 'Photoshop', percentage: 85, image: '/svgs/photoshop.svg', category: 'design' },
-  { id: '3', title: 'Draw.io', percentage: 90, image: '/svgs/canva.svg', category: 'design' },
+  { id: '3', title: 'Canva', percentage: 90, image: '/svgs/canva.svg', category: 'design' },
   { id: '4', title: 'Adobe', percentage: 75, image: '/svgs/adobe.svg', category: 'design' },
   
   // Development
