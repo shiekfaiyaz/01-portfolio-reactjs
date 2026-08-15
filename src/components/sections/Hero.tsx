@@ -120,12 +120,12 @@ export default function Hero() {
                     <div className="w-full h-full flex items-end justify-center">
                       <Animate type="zoom" delay={0.2}>
                       <Image
-                        src="/images/hero-profile.png"
+                        src="/images/hero-img.png"
                         alt="Profile"
-                        width={400}
-                        height={400}
+                        width={200}
+                        height={200}
                         priority
-                        className="object-cover translate-y-2 scale-100"
+                        className="object-cover translate-y-15 translate-x-[-1rem] scale-150"
                       />
                       </Animate>
                     </div>
