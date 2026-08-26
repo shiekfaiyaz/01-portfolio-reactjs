@@ -190,6 +190,14 @@ export const CATEGORY_LIST = [
         github: "http://github.com/shiekfaiyaz/01-portfolio-reactjs",
         live: "https://01-portfolio-reactjs.vercel.app/",
       },
+           {
+        id: "rn2",
+        title: "AI ContentFlow Platform",
+        description: "Generate, optimize & manage content with AI and Track generations, usage, credits & content activity",
+        image: "/project-img/02-Saas-reactjs.png",
+        github: "http://github.com/shiekfaiyaz/02-saasAi-react",
+        live: "https://02-saas-ai-react.vercel.app/",
+      },
     ],
   },
   {
