@@ -206,8 +206,30 @@ export const CATEGORY_LIST = [
         github: "https://github.com/shiekfaiyaz/03-ecom-reactjs",
         live: "https://03-ecom-reactjs.vercel.app/",
       },
+      {
+        id: "rn4",
+        title: "NEXUS — CRM Dashboard UI",
+        description: "Modern SaaS CRM dashboard featuring lead pipelines, dynamic charts, full Light/Dark mode, and date scheduling",
+        image: "/project-img/04-crm-reactjs.png",
+        github: "https://github.com/shiekfaiyaz/04-05-crm-project-management",
+        live: "https://04-05-crm-project-management.vercel.app/crm",
+      },
+      {
+        id: "rn5",
+        title: "TASKFLOW — Project Management",
+        description: "Agile Kanban task board with interactive drag-and-drop workflows, task priority tags, and responsive dark theme UI",
+        image: "/project-img/05-pm-reactjs.png",
+        github: "https://github.com/shiekfaiyaz/04-05-crm-project-management",
+        live: "https://04-05-crm-project-management.vercel.app/pm",
+      },
+
+
     ],
   },
+
+
+
+  // Threejs and React3Fiber Projects 
   {
     categoryTitle: "Three.js & React Three Fiber",
     projects: [
