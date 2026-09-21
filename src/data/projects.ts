@@ -179,6 +179,10 @@ export const CATEGORY_LIST = [
       },
     ],
   },
+  // Reactjs and Nextjs projects
+
+
+
   {
     categoryTitle: "React & Next.js Projects",
     projects: [
@@ -222,6 +226,15 @@ export const CATEGORY_LIST = [
         github: "https://github.com/shiekfaiyaz/04-05-crm-project-management",
         live: "https://04-05-crm-project-management.vercel.app/pm",
       },
+      {
+        id: "rn6",
+        title: "TRAVELGO — Travel Booking Platform",
+        description: "Modern travel booking platform with flight and stay search, responsive layouts, smooth animations, wishlist, and demo booking flows",
+        image: "/project-img/06-Travel-reactjs.png",
+        github: "https://github.com/shiekfaiyaz/06-travel-booking-reactjs",
+        live: "https://06-travel-booking-reactjs.vercel.app/",
+      },
+
 
 
     ],
