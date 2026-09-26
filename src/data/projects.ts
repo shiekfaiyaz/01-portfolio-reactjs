@@ -238,7 +238,7 @@ export const CATEGORY_LIST = [
         id: "rn7",
         title: "FinTrack — Personal Finance Tracker",
         description: "Finance dashboard with income/expense tracking, category breakdown, spending charts, and transaction management — built with local state persistence",
-        image: "/project-img/07-Finance-Tracker-reactjs.png",
+        image: "/project-img/07-finance-reactjs.png",
         github: "https://github.com/shiekfaiyaz/07-finance-tracker-reactjs",
         live: "https://07-finance-tracker-reactjs.vercel.app/",
       },
