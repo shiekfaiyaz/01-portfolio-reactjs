@@ -242,6 +242,14 @@ export const CATEGORY_LIST = [
         github: "https://github.com/shiekfaiyaz/07-finance-tracker-reactjs",
         live: "https://07-finance-tracker-reactjs.vercel.app/",
       },
+      {
+        id: "rn8",
+        title: "Nestora — Real Estate Web App",
+        description: "Property listings with advanced filters, interactive map view, dynamic gallery grids, and global wishlist synchronization using Zustand — built with Next.js & TypeScript",
+        image: "/project-img/08-real-estate-reactjs.png",
+        github: "https://github.com/shiekfaiyaz/08-real-estate-reactjs",
+        live: "https://08-real-estate-reactjs.vercel.app/",
+      },
 
 
 
