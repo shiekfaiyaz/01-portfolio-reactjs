@@ -263,15 +263,22 @@ export const CATEGORY_LIST = [
     categoryTitle: "Three.js & React Three Fiber",
     projects: [
       {
-        id: "t31",
-        title: "3D Product Showcase",
-        description: "Built using simple semantic HTML5 and styled with custom CSS flexbox layout.",
-        image: "/images/projects/t31.jpg",
-        github: "https://github.com",
-        live: "https://example.com",
+        id: "tr1",
+        title: "NEXORA — Corporate 3D Website",
+        description: "Premium corporate website featuring immersive 3D visuals, interactive animations, scroll-based storytelling.",
+        image: "/project-img/01-threejs.png",
+        github: "https://github.com/shiekfaiyaz/01-corporate-storytelling-r3f",
+        live: "01-corporate-storytelling-r3f.vercel.app",
       },
+    
     ],
   },
+
+
+
+
+
+  // Backend AI projects 
   {
     categoryTitle: "Backend & AI Projects",
     projects: [
