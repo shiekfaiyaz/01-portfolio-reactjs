@@ -266,9 +266,9 @@ export const CATEGORY_LIST = [
         id: "tr1",
         title: "NEXORA — Corporate 3D Website",
         description: "Premium corporate website featuring immersive 3D visuals, interactive animations, scroll-based storytelling.",
-        image: "/project-img/01-threejs.png",
+        image: "/project-img/threejs/01-threejs.png",
         github: "https://github.com/shiekfaiyaz/01-corporate-storytelling-r3f",
-        live: "01-corporate-storytelling-r3f.vercel.app",
+        live: "https://01-corporate-storytelling-r3f.vercel.app/",
       },
     
     ],
