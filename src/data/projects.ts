@@ -270,7 +270,15 @@ export const CATEGORY_LIST = [
         github: "https://github.com/shiekfaiyaz/01-corporate-storytelling-r3f",
         live: "https://01-corporate-storytelling-r3f.vercel.app/",
       },
-    
+      {
+        id: "tr2",
+        title: "AURA — Interactive 3D Headphone Showcase",
+        description: "High-end product showcase featuring dynamic color switching, studio HDR lighting, and smooth horizontal rotation using React Three Fiber, Drei, and GSAP.",
+        image: "/project-img/threejs/02-product.png",
+        github: "https://github.com/shiekfaiyaz/-02-product-r3f",
+        live: "https://02-product-r3f-2xu0ivey7-shaik-faiyazs-projects.vercel.app/",
+      },
+
     ],
   },
 
